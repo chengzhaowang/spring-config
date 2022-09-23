@@ -1,2 +1,2 @@
-server:
-  port: 8001
+core:
+  info: main-version-1
